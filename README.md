@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 🔗
 
-[![Luffy Blog](https://img.shields.io/badge/blog-Luffy%20Blog-yellow)](https://kimsangyeon-github-io.vercel.app/w)
+[![Luffy Blog](https://img.shields.io/badge/blog-Luffy%20Blog-yellow)](https://kimsangyeon-github-io.vercel.app)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4)](https://www.instagram.com/luffy.yeon/?hl=ko)
 
 <br />
