@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 |:--------:|:--------:|:--------:|:--------:|
 | **KaKao** | 2021. 3 ~ | Web FE Developer | **FE Platform** |
 | **TOMON** | 2020. 10 ~ 2021. 1 | Web FE Developer | **TMON FrontEnd** |
-| **Synap Soft** | 2018. 2 ~ 2019. 11| Web FE Developer | **Synap Editor** |
-| **Synap Soft** | 2016. 1 ~ 2018. 2| Web FE Developerr | **Synap Office** |
+| **Synapsoft** | 2018. 2 ~ 2019. 11| Web FE Developer | **Synap Editor** |
+| **Synapsoft** | 2016. 1 ~ 2018. 2| Web FE Developerr | **Synap Office** |
 
 <br />
 
