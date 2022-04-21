@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 | **Company** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
-| **KaKao** | 2021. 3 ~ | Web FE Developer | **FE Platform** |
-| **TOMON** | 2020. 10 ~ 2021. 1 | Web FE Developer | **TMON FrontEnd** |
-| **Synapsoft** | 2018. 2 ~ 2019. 11| Web FE Developer | **Synap Editor** |
-| **Synapsoft** | 2016. 1 ~ 2018. 2| Web FE Developerr | **Synap Office** |
+| **KaKao** | 2021. 03 ~ | Web FE Developer | **FE Platform** |
+| **TOMON** | 2020. 10 ~ 2021. 01 | Web FE Developer | **TMON FrontEnd** |
+| **Synapsoft** | 2018. 02 ~ 2019. 11| Web FE Developer | **Synap Editor** |
+| **Synapsoft** | 2016. 01 ~ 2018. 02| Web FE Developer | **Synap Office** |
 
 <br />
 
