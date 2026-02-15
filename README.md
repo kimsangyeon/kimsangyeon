@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/js-Javascript-brightgreen"/>
   <img src="https://img.shields.io/badge/ts-Typescript-blue"/>
   <img src="https://img.shields.io/badge/-Reactjs-9cf"/>
-  <img src="https://img.shields.io/badge/-Nextjs-ff69b4"/>
 <p/>
 
 <!--
@@ -24,8 +23,8 @@ Here are some ideas to get you started:
 
 ### 🔗
 
-[![Luffy Blog](https://img.shields.io/badge/blog-Luffy%20Blog-yellow)](https://kimsangyeon-github-io.vercel.app)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4)](https://www.instagram.com/luffy.yeon/?hl=ko)
+[![Luffy Blog](https://img.shields.io/badge/blog-Luffy%20Blog-yellow)](https://yeony.dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4)](https://www.instagram.com/yeon.papa/?hl=ko)
 
 <br />
 
